@@ -2,6 +2,4 @@
 
 This is a basic Python Flask application.
 
-hello
-
 
